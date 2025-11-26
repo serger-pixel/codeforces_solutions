@@ -19,4 +19,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="square.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="your_name.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Isamatdin and His Magic Wand.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
